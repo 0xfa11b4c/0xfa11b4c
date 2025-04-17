@@ -13,7 +13,7 @@
   <br><br>
 
   <a href="https://discord.com/users/921518780876738602" align="center">
-    <img src="https://lanyard.cnrad.dev/api/921518780876738602?theme=light&bg=F4BFC7&borderRadius=15px&animated=true" width="30%" align="center">
+    <img src="https://lanyard.cnrad.dev/api/752136641644068894?theme=light&bg=F4BFC7&borderRadius=15px&animated=true" width="30%" align="center">
   </a>
 
   <br><br><br><br>
