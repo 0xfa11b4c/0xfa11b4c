@@ -20,7 +20,7 @@
 
 ## 📌 Pinned
 
-[![Singularity](https://github-readme-stats.vercel.app/api/pin/?username=princekylian01&repo=Singularity&theme=dark)](https://github.com/princekylian01/Singularity)
+[![Singularity](https://github-readme-stats.vercel.app/api/pin/?username=princekylian01&repo=Singularity&theme=material-palenight)](https://github.com/princekylian01/Singularity)
 
 ---
 
@@ -49,8 +49,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=princekylian01&show_icons=true&theme=dark&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=princekylian01&layout=compact&theme=dark&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=princekylian01&show_icons=true&theme=material-palenight&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=princekylian01&layout=compact&theme=material-palenight&hide_border=true" />
 </p>
 
 ---
