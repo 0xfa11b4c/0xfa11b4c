@@ -1,5 +1,5 @@
 <div align="center"> 
-  <img src="https://remanga.org/media/card-item/cover_4b84d228.webp" width="27%" align="right" style="border-radius: 0px;" />
+  <img src="https://sun9-66.userapi.com/impg/lVtYqLXjSK7QlVkUIqbk4ICXspPikMQDjsNsyg/d9YO2WOeLYE.jpg?size=400x600&quality=95&sign=95488702e8fbaf62fe4bb2b1a370e725&type=album" width="27%" align="right" style="border-radius: 0px;" />
   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&pause=1000&color=c5e3ae&center=true&random=false&width=435&lines=.NET+Developer" width="70%" />
   
   <br><br>
