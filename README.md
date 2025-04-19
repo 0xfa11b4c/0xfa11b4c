@@ -18,12 +18,6 @@
 
 ---
 
-## 📌 Pinned
-
-[![Singularity](https://github-readme-stats.vercel.app/api/pin/?username=princekylian01&repo=Singularity&theme=graywhite)](https://github.com/princekylian01/Singularity)
-
----
-
 ## 🧠 Skills Overview
 
 ### 🗣️ Languages
