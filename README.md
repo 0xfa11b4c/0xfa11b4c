@@ -1,5 +1,5 @@
 <div align="center"> 
-  <img src="https://sun9-55.userapi.com/impg/_RW5msdGDJiUuYzKuFPvYaSaqve3EZ8WBneuGg/TflccBJVx2s.jpg?size=1024x1536&quality=95&sign=e51f0a93b6ac0d007cc32db3c0e18912&type=album" width="27%" align="right" style="border-radius: 15px;" />
+  <img src="https://sun9-69.userapi.com/impg/SzE1KTaUv6oYtwgRC4SFTG_jyAsmH3jqrFwb4A/Jh2CCCPDeIk.jpg?size=1024x1536&quality=95&sign=5c415162767ab4c00c07d8f88873a976&type=album" width="27%" align="right" style="border-radius: 15px;" />
   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&pause=1000&color=c5e3ae&center=true&random=false&width=435&lines=.NET+Developer" width="70%" />
   
   <br><br>
