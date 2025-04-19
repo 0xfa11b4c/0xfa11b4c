@@ -1,5 +1,5 @@
 <div align="center"> 
-  <img src="https://sun9-19.userapi.com/impg/aIlmZjiuSJu7BnwZRKiGEqcsQG_ZUoBAUs_F0A/LR0IFHHIMu8.jpg?size=735x506&quality=95&sign=67bdc1ba1234eaea53c5fd191fc74473&type=album" width="27%" align="right" style="border-radius: 40;" />
+  <img src="https://sun9-55.userapi.com/impg/_RW5msdGDJiUuYzKuFPvYaSaqve3EZ8WBneuGg/TflccBJVx2s.jpg?size=1024x1536&quality=95&sign=e51f0a93b6ac0d007cc32db3c0e18912&type=album" width="27%" align="right" style="border-radius: 15px;" />
   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&pause=1000&color=c5e3ae&center=true&random=false&width=435&lines=.NET+Developer" width="70%" />
   
   <br><br>
@@ -15,12 +15,6 @@
 <br><br>
 
 </div>
-
----
-
-## 📌 Pinned
-
-[![Singularity](https://github-readme-stats.vercel.app/api/pin/?username=princekylian01&repo=Singularity&theme=graywhite)](https://github.com/princekylian01/Singularity)
 
 ---
 
