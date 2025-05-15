@@ -18,21 +18,19 @@
 
 ---
 
-## 🧠 Skills Overview
-
-### 🗣️ Languages
+### Languages
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,html,css,js" />
 </p>
 
-### 🧩 Frameworks & Technologies
+### Frameworks & Technologies
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=dotnet" />
 </p>
 
-### 🛠️ Tools & Platforms
+### Tools & Platforms
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,mongodb" />
